@@ -1,0 +1,15 @@
+{
+    "name": "Boichuk/margo",
+    "description": "N/A",
+    "require": {
+        "magento/theme-frontend-luma": "100.0.*",
+        "magento/framework": "100.0.*"
+    },
+    "type": "magento2-theme",
+    "version": "1.0.0",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
