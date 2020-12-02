@@ -1,0 +1,18 @@
+<div class="page-main">
+<div class="block1"><a href="#"><img src="{{media url="wysiwyg/b1.jpg"}}" alt=""></a></div>
+<div class="blocks-wrapper-1">
+<div class="block2"><a href="#"><img src="{{media url="wysiwyg/b2.jpg"}}" alt=""></a></div>
+<div class="blocks-wrapper-2">
+<div class="block3"><a href="#"><img src="{{media url="wysiwyg/b3.jpg"}}" alt=""></a></div>
+<div class="blocks-wrapper-3">
+<div class="block4"><a href="#"><img src="{{media url="wysiwyg/b4.jpg"}}" alt=""></a></div>
+<div class="block5"><a href="#"><img src="{{media url="wysiwyg/b5.jpg"}}" alt=""></a></div>
+</div>
+</div>
+</div>
+<div class="content-heading">
+<h2 class="title">Hot Sellers</h2>
+<p class="info">Here is what`s trending on Luma right now</p>
+</div>
+<p>{{block class="Mageplaza\Productslider\Block\BestSellerProducts" template="Mageplaza_Productslider::productslider.phtml" products_count="8" heading="Best Sellers"}}</p>
+</div>

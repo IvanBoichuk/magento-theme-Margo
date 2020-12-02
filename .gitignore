@@ -5,6 +5,7 @@
 /grunt-config.json.sample
 /package.json.sample
 
+/generated
 /auth.json.sample
 /bin
 /CHANGELOG.md
